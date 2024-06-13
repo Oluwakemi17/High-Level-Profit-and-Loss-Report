@@ -1,13 +1,13 @@
-# High Level P&L Report
+# High Level P&L Report for Abacus_Retail
 
 ![](intro_image.jpg)
 
 ### Introduction
-This is a power BI project on sales,profit and loss analysis of an imaginary retail store. The project is to analyze and generate insights to answer critical questions that will help the store make data driven decisions.
+This is a power BI project on sales,profit and loss analysis of an imaginary retail store called **Abacus_Retail**. The projectis set to analyze and generate insights to answer critical questions that will help the store make data driven decisions.
 
 ### Data Sources
 The primary dataset used for this analysis is the “sales_retail.csv” (2017 -20191) file, containing detailed information about the sales made by the retail store.
-**_Disclaimer_** : _All datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of Power BI. as provided by Corporate Finance Institute (CFI)._
+**_Disclaimer_** : _All datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of Power BI as provided by Corporate Finance Institute (CFI)._
 
 ### Problem Statement
 1.	What is the performance in sales and growth/decline in profit per year?
