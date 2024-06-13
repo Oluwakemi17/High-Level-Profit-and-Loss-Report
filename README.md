@@ -52,7 +52,7 @@ Bookmarks - to allow users to actively click, hover and engage.
 #### High Level View
 ![](High_Level_View.jpg)
 
-The retail store currently has a total sum of $1,387 millon (USD) in sales, with 55.18% GM% (Gross Margin percent) and 15.23% EBIT% (E Before Interest and Tax percent) respectively.
+The retail store currently has a total sum of $1,387 millon (USD) in sales, with 55.18% GM% (Gross Margin percent) and 15.23% EBIT% (Earning Before Interest and Taxes percent) respectively.
 The store has a total of 40 core, digital and core store type spread across the USA.
 
 
