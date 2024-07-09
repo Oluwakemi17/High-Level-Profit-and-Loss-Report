@@ -39,6 +39,7 @@ The report comprises of 4 pages
 2.	Store View
 3.	Top Performng Product Group
 4.	Top Issues
+
 You can interact with the report [here](https://app.powerbi.com/groups/me/reports/0db28b16-0f77-417f-b399-96ef6b2be7e9/ReportSection?experience=power-bi)
 
 #### Features:
